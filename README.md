@@ -6,4 +6,4 @@ This can be useful on a When you want to showcase some measures in a graphical v
 Multiple Measure (upto 9 measure)
 ###Click To viw Video
 <br>
-[![RatingChart](./Timeline.PNG)](https://youtu.be/HL_eGS3wdV4 "Click to Watch!")
+[![Timeline](./timeline.PNG)](https://youtu.be/HL_eGS3wdV4 "Click to Watch!")
