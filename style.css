@@ -1,0 +1,13 @@
+/* CSS */
+.event__content {
+    max-height: 50px;
+    overflow: auto;
+}
+
+.roadmap.roadmap--orientation-auto .roadmap__navigation>* a, .roadmap.roadmap--orientation-horizontal .roadmap__navigation>* a, .roadmap.roadmap--orientation-vertical .roadmap__navigation>* a{
+	text-decoration: none;
+}
+
+.roadmap.roadmap--orientation-horizontal{
+	margin: 0;
+}
